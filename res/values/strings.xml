@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nameHint">Name</string>
+    <string name="emailHint">Email</string>
+    <string name="favPro">Favorite Programming Language:</string>
+    <string name="javaName">Java</string>
+    <string name="cName">C</string>
+    <string name="cSharpName">C#</string>
+    <string name="accSear">Account is searchable</string>
+    <string name="moodText">Your current mood:</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="studentInfo">Student Information</string>
+    <string name="name">Name:</string>
+    <string name="emailId">Email:</string>
+    <string name="proLanguage">Prog.Language:</string>
+    <string name="accountState">Account State:</string>
+    <string name="mood">Mood:</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="save">Save</string>
+
+</resources>
